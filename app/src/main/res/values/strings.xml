@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ADF4.3DialogaAndPIcker</string>
+    <string name="hello_textView">Hello World! Tap to test the alert:</string>
+    <string name="alert_button_text">Alert</string>
+</resources>
