@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ADF4.3Picker</string>
+    <string name="date_button_label">Date</string>
+    <string name="text_label">Hello World! Choose a Date:</string>
+    <string name="date_header">Date: </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
